@@ -13,7 +13,6 @@
 
 ### 🚲 Bike Store Analytics
 SQL + Power BI | Sales insights | Business Questions and Challenges  
-[View on GitHub →](https://github.com/your-repo/bikestore)
-
+[View on GitHub →]([https://github.com/your-repo/bikestore](https://github.com/NWF-Analyst/Bike-Relationship-Database-SQL-PowerBI))
 
 > 🎯 Let’s connect: [LinkedIn](https://www.linkedin.com/in/nawaf-alibasa-69311528b/) | [Resume PDF](https://your-link.com/resume)
